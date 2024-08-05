@@ -1,8 +1,7 @@
 # Car Dealership Web Scraping
 
 **Author**: Riddhi Dinesh Vora  
-**NUID**: 002761911  
-**Email**: vora.ri@northeastern.edu
+
 
 ## Abstract
 
