@@ -1,7 +1,5 @@
 # Car Dealership Web Scraping
 
-**Author**: Riddhi Dinesh Vora  
-
 
 ## Abstract
 
